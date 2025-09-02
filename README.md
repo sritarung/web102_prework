@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](https://i.imgur.com/yourgifid.gif)
 
-<img src="https://i.imgur.com/yourgifid.gif" alt="Video Walkthrough" width="600"/>
+<img src="[https://i.imgur.com/yourgifid.gif](https://imgur.com/a/eCPcdLZ)" alt="Video Walkthrough" width="600"/>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sri Tarun]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
