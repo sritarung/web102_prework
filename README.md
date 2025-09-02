@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://i.imgur.com/Rt4qqlY.gif)
+![Video Walkthrough](https://i.imgur.com/Rt4qqlY.mp4)
 
 
 
