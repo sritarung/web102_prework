@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](https://i.imgur.com/yourgifid.gif)
 
-<img src="[https://i.imgur.com/yourgifid.gif](https://imgur.com/a/eCPcdLZ)" alt="Video Walkthrough" width="600"/>
+<img src="https://imgur.com/a/eCPcdLZ.gif" alt="Video Walkthrough" width="600"/>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
