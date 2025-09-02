@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](https://i.imgur.com/Rt4qqlY.gif)
-<a href="https://i.imgur.com/Rt4qqlY" target="_blank">View the GIF on Imgur</a>
+<a href="https://imgur.com/gallery/gamefunder-eCPcdLZ" target="_blank">View the GIF on Imgur</a>
 
 
 
